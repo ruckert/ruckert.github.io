@@ -1,1 +1,13 @@
+# Site settings
+title: Augusto Rückert
+email:
+description: Digital Product Management
 theme: jekyll-theme-slate
+baseurl:
+url:
+twitter_username: ruckert
+github_username:  ruckert
+
+# Build settings
+markdown: kramdown
+permalink: pretty

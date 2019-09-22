@@ -7,6 +7,7 @@ url:         'https://ruckert.com.br/' # The base hostname & protocol for your s
 twitter:     'https://twitter.com/ruckert'
 github:      'https://github.com/ruckert/'
 instagram:   'https://www.instagram.com/augusto.ruckert/'
+linkedin:    'https://www.linkedin.com/in/augustoruckert/'
 
 markdown:  kramdown
 permalink: pretty

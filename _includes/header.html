@@ -1,17 +1,37 @@
-<header class="site-header">
+<header class='c-header'>
 
-  <div class="wrap">
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <div class='c-header__inner'>
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <div class='o-grid'>
+          <div class='o-grid__col o-grid__col--3-4-s'>
+            <div class='c-logo u-text-left'>
+              <a class='c-logo__link' href='{{ site.baseurl }}/'>{{ site.title }}</a>
+            </div>
+          </div>
 
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title == 'About' %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
+          <div class='o-grid__col o-grid__col--1-4-s'>
+            <label class='js-off-canvas-toggle c-off-canvas-toggle' aria-label='Toggle navigation'>
+              <span class='c-off-canvas-toggle__icon'></span>
+            </label>
+          </div>
+
+          <div class='o-grid__col o-grid__col--1-4-s'>
+            <div class='c-off-canvas-content'>
+              <label class='js-off-canvas-toggle c-off-canvas-toggle c-off-canvas-toggle--close'>
+                <span class='c-off-canvas-toggle__icon'></span>
+              </label>
+
+              <ul class='c-nav o-plain-list '>
+                {% include navigation.html %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
       </div>
-    </nav>
-
+    </div>
   </div>
 
 </header>

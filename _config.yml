@@ -1,7 +1,7 @@
 # Site settings
 title:       'Augusto Rückert'
-email:       'augusto.ruckert@protonmail.com'
-description: 'Digital Product Management'
+email:       'augusto@ruckert.com.br'
+description: 'Digital Product Management / Digital Strategy'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://ruckert.com.br/' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/ruckert'

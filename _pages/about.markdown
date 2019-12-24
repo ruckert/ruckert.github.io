@@ -10,3 +10,5 @@ image: '/images/pages/about.jpeg'
 > Productivity Geek
 > Coffee Lover
 > Podcast Addict
+
+Text

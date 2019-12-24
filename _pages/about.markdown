@@ -7,8 +7,11 @@ image: '/images/pages/about.jpeg'
 ## Augusto Rückert
 
 > Digital Product Professional
+> 
 > Productivity Geek
+> 
 > Coffee Lover
+> 
 > Podcast Addict
 
 Text

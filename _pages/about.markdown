@@ -12,6 +12,6 @@ image: '/images/pages/about.jpeg'
 > 
 > Coffee Lover
 > 
-> Podcast Addict
+> Podcast Addicted
 
 Text

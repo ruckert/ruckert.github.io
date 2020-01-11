@@ -4,15 +4,19 @@ title: Sobre mim
 image: ''
 ---
 
-## Augusto Rückert
+## Eu faço produtos/coisas digitais
 
-Olá!
-Algumas definições rápidas
+Olá! Me chamo Augusto Rückert e trabalho com digital desde meus 17 anos. Nesse meio tempo tive uma série de cargos/papéis: webmaster, webdesigner, designer, ui designer, ux designer, front-end developer, product designer, coordenador de desenvolvimento, product owner, product manager.
 
-- Profissional de Gestão de Produtos Digitais
-- Nerd de produtividade
-- Louco por café
-- Viciado em podcasts
+Considero que eu sou uma pessoa que trabalha entendendo, construindo, gerindo e pensando em produtos/coisas digitais. Gosto de conversar sobre resultados, mercados, processo, metodologia, cultura, design, comportamento.
+
+Para além disso, mais algumas definições rápidas sobre mim:
+
+- Sou nerd de produtividade, organização e metodologias
+- Sou louco por café, cafés bons e bem preparados
+- Sou viciado em podcasts, sendo a mídia que mais consumo desde 2012
+- Sou organizador do [Meetup de Produto](https://www.meetup.com/pt-BR/meetupdeproduto/), uma comunidade de profissionais sobre gestão de produtos digitais
+- Estou aberto a conversar sobre qualquer dos assuntos citados nesse resumo, só [agendar aqui](https://calendly.com/augustoruckert/conversar)
 
 ### Algumas respostas para perguntas simples
 

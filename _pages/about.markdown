@@ -7,7 +7,6 @@ image: ''
 ## Augusto Rückert
 
 Olá!
-
 Algumas definições rápidas
 
 - Profissional de Gestão de Produtos Digitais

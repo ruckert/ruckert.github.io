@@ -17,6 +17,8 @@ Para além disso, mais algumas definições rápidas sobre mim:
 - Sou organizador do [**Meetup de Produto**](https://www.meetup.com/pt-BR/meetupdeproduto/), uma comunidade de profissionais sobre gestão de produtos digitais
 - Estou aberto a conversar sobre qualquer dos assuntos citados nesse resumo, só [**agendar aqui**](https://calendly.com/augustoruckert/conversar)
 
+---
+
 ### Algumas respostas para perguntas simples
 
 #### Why do you write in portuguese, not in english?

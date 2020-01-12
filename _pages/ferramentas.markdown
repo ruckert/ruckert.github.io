@@ -3,8 +3,6 @@ layout: page
 title: Ferramentas
 ---
 
-## Algumas ferramentas que utilizo no meu dia-a-dia
-
 Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que as utilizo. _Essa lista jamais será definitiva_.
 
 ### Para organização
@@ -18,7 +16,7 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 
 ### Para anotar/pensar
 
-- **Markdown**: Não é um software, mas um padrão de formatação de escrita. Além de ser simples, tem a vantagem de ser compatível com vários softwares e salvar os arquivos em texto plano;
+- **Markdown**: Não é um app, mas um padrão de formatação de escrita. Além de ser simples, tem a vantagem de ser compatível com vários softwares e salvar os arquivos em texto plano;
 - **VSCode**: Para escrever ainda prefiro a limpeza de interface e recursos de um editor de código. Já passei por vários, e atualmente é o VSCode que utilizo. Ele me permite trabalhar muito bem com a escrita em markdown, em vários sistemas operacionais, com uma experiência muito boa e customizável;
 - **IA Writer**: No caso de precisar editar minhas anotações no smartphone, o IA Writer é uma boa opção. A experiência desktop não me animou muito, mas o app de Android é o melhor editor de markdown que encontrei;
 - ??

@@ -3,9 +3,7 @@ layout: page
 title: Sobre mim
 ---
 
----
-
-## Eu faço produtos/coisas digitais
+> Eu faço produtos/coisas digitais
 
 Olá! Me chamo **Augusto Rückert** e trabalho com digital desde meus 17 anos. Nesse meio tempo tive uma série de cargos/papéis: _webmaster, webdesigner, designer, ui designer, ux designer, front-end developer, product designer, coordenador de desenvolvimento, product owner, product manager_.
 

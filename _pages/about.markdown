@@ -7,7 +7,7 @@ title: Sobre mim
 
 Olá! Me chamo **Augusto Rückert** e trabalho com digital desde meus 17 anos. Nesse meio tempo tive uma série de cargos/papéis: _webmaster, webdesigner, designer, ui designer, ux designer, front-end developer, product designer, coordenador de desenvolvimento, product owner, product manager_.
 
-Considero que eu sou uma pessoa que trabalha entendendo, construindo, gerindo e pensando em **produtos/coisas digitais**. Gosto de conversar sobre _estratégias, mercados, processos, metodologias, cultura, design, comportamento_.
+Considero que eu sou uma pessoa que trabalha entendendo, construindo, gerindo e pensando **produtos/coisas digitais**. Gosto de conversar e estudar sobre _estratégias, mercados, processos, metodologias, cultura, design, comportamento e sociedade_.
 
 Para além disso, mais algumas definições rápidas sobre mim:
 

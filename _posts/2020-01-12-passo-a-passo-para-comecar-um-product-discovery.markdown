@@ -5,8 +5,6 @@ tags: [gestão de produtos, discovery]
 image: ''
 ---
 
-> [artigo originalmente publicado no blog da PM3](https://www.cursospm3.com.br/blog/passo-a-passo-product-discovery)
-
 Toda pessoa com a responsabilidade de gerenciar um produto depara-se frequentemente com muitas dúvidas e desejos bastante incômodos. Queremos ter certeza que estamos olhando para o lado certo, construindo e evoluindo o produto na direção que aumenta o valor entregue para os usuários. Queremos diminuir as chances de construir coisas inúteis ou inusáveis. Queremos diferenciar nosso produto dos demais concorrentes, criando vantagens únicas que os clientes desejam e pagam para ter. Queremos melhorar os resultados da empresa, atingindo as melhores oportunidades de negócio. Queremos muitas coisas.
 
 Estamos tentando resolver problemas complexos, com muitas variáveis envolvidas que inviabiliza, encontrarmos respostas simples e definitivas.  Para nos ajudar a navegar nesse mar de possibilidades e problemas, utilizamos o que chamamos de product discovery ou descoberta/discovery. Vamos compreender um pouco mais sobre o que é isso.
@@ -80,3 +78,5 @@ Algumas leituras são legais para ampliar os conhecimentos sobre product discove
 - [**6 Guiding Principles for Effective Product Discovery**](https://www.producttalk.org/2018/08/effective-product-discovery/), da Teresa Torres: selecionei este artigo da Teresa, pois é um bom guia para quem está iniciando, mas recomendo que acompanhe e leia TODO o blog dela;
 - [**How to Stay on Course During Product Discovery**](https://productcraft.com/best-practices/how-to-stay-on-course-during-product-discovery/), do Tim Herbig: através de uma ferramenta chamada Impact Mapping, Tim apresenta um modo de conseguir navegar pelo processo de descoberta sem se perder no mar de infinitas possibilidades;
 - [**Common PM Problem Areas**](https://svpg.com/common-pm-problem-areas/), do Marty Cagan: não fala somente sobre discovery, mas é um artigo no qual Cagan traz algumas discussões sobre o papel e responsabilidades dos gestores de produto e dos times de produto.
+
+> [artigo originalmente publicado no blog da PM3](https://www.cursospm3.com.br/blog/passo-a-passo-product-discovery)

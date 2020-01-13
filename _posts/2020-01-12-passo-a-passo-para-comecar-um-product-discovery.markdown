@@ -2,7 +2,7 @@
 layout: post
 title: Passo a passo para começar um Product Discovery
 tags: [gestão de produtos, discovery]
-image: ''
+image: 'images/posts/aerial-photo-of-boat-on-sea-1655166.jpg'
 ---
 
 _Toda pessoa com a responsabilidade de gerenciar um produto depara-se frequentemente com muitas dúvidas e desejos bastante incômodos. Queremos ter certeza que estamos olhando para o lado certo, construindo e evoluindo o produto na direção que aumenta o valor entregue para os usuários. Queremos diminuir as chances de construir coisas inúteis ou inusáveis. Queremos diferenciar nosso produto dos demais concorrentes, criando vantagens únicas que os clientes desejam e pagam para ter. Queremos melhorar os resultados da empresa, atingindo as melhores oportunidades de negócio. Queremos muitas coisas._
@@ -92,3 +92,5 @@ Algumas leituras são legais para ampliar os conhecimentos sobre _product discov
 ---
 
 [Esse artigo foi originalmente publicado no blog da PM3](https://www.cursospm3.com.br/blog/passo-a-passo-product-discovery)
+
+[_Foto de Pok Rie_](https://www.pexels.com/photo/aerial-photo-of-boat-on-sea-1655166/)

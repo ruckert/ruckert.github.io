@@ -2,7 +2,7 @@
 layout: post
 title: Passo a passo para começar um Product Discovery
 tags: [gestão de produtos, discovery]
-image: 'images/posts/aerial-photo-of-boat-on-sea-1655166.jpg'
+image: '/images/posts/aerial-photo-of-boat-on-sea-1655166.jpg'
 ---
 
 _Toda pessoa com a responsabilidade de gerenciar um produto depara-se frequentemente com muitas dúvidas e desejos bastante incômodos. Queremos ter certeza que estamos olhando para o lado certo, construindo e evoluindo o produto na direção que aumenta o valor entregue para os usuários. Queremos diminuir as chances de construir coisas inúteis ou inusáveis. Queremos diferenciar nosso produto dos demais concorrentes, criando vantagens únicas que os clientes desejam e pagam para ter. Queremos melhorar os resultados da empresa, atingindo as melhores oportunidades de negócio. Queremos muitas coisas._
@@ -60,7 +60,7 @@ Conte com eles para **construir mockups e protótipos**, para fazer testes com t
 
 ## Um pequeno passo a passo para começar
 
-Com os fundamentos em mente, trouxemos também um pequeno guia inicial para ficar mais fácil para você fazer seus primeiros product discoveries:
+Com os fundamentos em mente, trouxemos também um pequeno guia inicial para ficar mais fácil para você fazer seus primeiros _product discoveries_:
 
 1. **Tenha algum problema ou oportunidade em mãos**: para começar, é importante você ter alguma dúvida/problema para iniciar suas primeiras descobertas. Pode ser uma ideia dada por um _stakeholder_, uma situação relatada por um cliente ou mesmo alguma impressão/sugestão do time;
 2. **Foque primeiro no valor**: muitas vezes, quando estamos embrenhados no dia-a-dia do nosso produto, tomamos o valor como óbvio. Entretanto, precisamos questionar o valor de cada modificação que fazemos no nosso produto, do valor do nosso produto em relação ao mercado (que também está se modificando), aos concorrentes, às mudanças de comportamento dos nossos clientes e usuários. Comece suas primeiras descobertas tentando reduzir o risco de entregar alguma coisa que não seja valoroso para o seu público;

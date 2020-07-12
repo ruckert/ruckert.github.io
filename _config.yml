@@ -1,41 +1,27 @@
-# Site settings
-title:       'Augusto Rückert'
-email:       'augusto@ruckert.com.br'
-description: 'Digital Product Management / Digital Strategy'
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://ruckert.com.br/' # The base hostname & protocol for your site
-twitter:     'https://twitter.com/ruckert'
-github:      'https://github.com/ruckert/'
-instagram:   'https://www.instagram.com/augusto.ruckert/'
-linkedin:    'https://www.linkedin.com/in/augustoruckert/'
+title:               My digital garden
+include:             ['_pages']
 
-markdown:  kramdown
-permalink: pretty
-paginate:  10
-
-sass:
-  style: compressed
+permalink:           pretty
+relative_permalinks: false
 
 plugins:
-  - jekyll-paginate
-  - jekyll/tagging
+  - jekyll-last-modified-at
 
-include:
-  - _pages
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
+collections:
+  notes:
+    output: true
+    permalink: /:path
 
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-# Pages path
 defaults:
   - scope:
-      path: '_pages'
+      path: "**/*"
     values:
-      permalink: /:basename:output_ext
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"

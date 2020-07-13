@@ -7,4 +7,4 @@ permalink: /
 
 # Olá 😃
 
-- [Ferramentas](ferramentas.md)
+- [Ferramentas](ferramentas)

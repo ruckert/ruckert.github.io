@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-Estou tentando manter públicas muitas das minhas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, etc. 
+Estou tentando manter públicas muitas das minhas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, etc.
 
 Espero que seja proveitoso! Ah, se quiser me conhecer mais ou trocar uma ideia, dá uma [olhada aqui](about).
 

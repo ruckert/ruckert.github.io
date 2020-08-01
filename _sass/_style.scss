@@ -83,6 +83,16 @@ a {
     color: black !important;
     background: #fffaf1;
   }
+  &:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.7em;
+    content: "↗";
+    color: #aaaaaa;
+  }
+  &.internal-link:after {
+    content: "";
+  }
 }
 
 *:focus {
@@ -92,18 +102,6 @@ a {
 
 nav {
   margin: 1em 0 3em;
-}
-
-ul {
-  padding-left: 0;
-}
-
-li {
-  margin-left: 40px;
-  
-  @media (max-width: 820px) {
-    margin-left: 32px;
-  }
 }
 
 #notes-entry-container {
@@ -123,4 +121,10 @@ li {
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
+}
+
+code {
+  background: #f5f5f5;
+  padding: 0.1em 0.2em;
+  border-radius: 4px;
 }

@@ -5,24 +5,20 @@ id: home
 permalink: /
 ---
 
-Estou tentando manter públicas muitas das minhas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, etc.
-
-Espero que seja proveitoso! Ah, se quiser me conhecer mais ou trocar uma ideia, dá uma [olhada aqui](about).
-
 ## 📒 Caderno de notas
 
-_Resumos, ideias do dia-a-dia, coisas inacabadas_
+Algumas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, coisas inacabadas
 
 - [User Stories](user-stories)
 
 ## 🗄 Coleções
 
-_Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáticas_
+Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáticas
 
 - [Ferramentas](ferramentas)
 
 ## 🖋 Blog
 
-_Textos (um pouco) trabalhados_
+Textos (um pouco) trabalhados sobre gestão de produtos digitais (_product management_)
 
 - ??

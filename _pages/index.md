@@ -10,6 +10,7 @@ permalink: /
 Algumas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, coisas inacabadas
 
 - [User Stories](user-stories)
+- [MVP](mvp)
 
 ## 🗄 Coleções
 

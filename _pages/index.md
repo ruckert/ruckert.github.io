@@ -12,6 +12,7 @@ Algumas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, 
 - [User Stories](user-stories)
 - [MVP](mvp)
 - [Product Strategy (Estratégia de Produto)](product-strategy)
+- [Product Planning (Planejamento de Produto)](product-planning)
 
 ## 🗄 Coleções
 

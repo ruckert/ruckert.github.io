@@ -80,7 +80,7 @@ title: Product Strategy (Estratégia de Produto)
 
 ### Vantagem competitiva
 
-- Há dois tipos possíveis de obter vantagem competiva: Otimização e Coordenação
+- Há dois tipos possíveis de obter vantagem competitiva: Otimização e Coordenação
 - Otimização diz respeito a melhorar a atividade pontualmente
 - Coordenação diz respeito a melhorar a relação e integração entre atividades
 
@@ -198,7 +198,7 @@ title: Product Strategy (Estratégia de Produto)
 - O que o vendedor quer promoter como "Virá a seguir"
 - O que nossos clientes que pagam valores altos querem pagar mais para ter
 
-Chegamos a algo que não é bom o sufiente em nada, mas faz tudo. Não há compreensão dos trade-offs
+Chegamos a algo que não é bom o suficiente em nada, mas faz tudo. Não há compreensão dos trade-offs
 
 > Gall's law
 >
@@ -218,7 +218,7 @@ Há milhares de NÃOs para cada SIM
 - Mas o cliente está ameaçando nos abandonar!
   - Talvez ele deva ir mesmo
 - Todas as pessoas estão pedindo isso!
-  - Pode ser o _Viés de Frequecência_, você vê mais as coisas quando são frequentes e recentes. Não quer dizer que representa um bom todo
+  - Pode ser o _Viés de Frequência_, você vê mais as coisas quando são frequentes e recentes. Não quer dizer que representa um bom todo
   - E quem são o todo que vocaliza frente ao montante total?
 - Mas podemos fazer isso opcional! Daí nem todos precisam usar!
   - Opções aumentam a complexidade e dificultam o entendimento

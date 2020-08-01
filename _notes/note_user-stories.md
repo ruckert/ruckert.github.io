@@ -1,7 +1,5 @@
 ---
-layout: default
 title: User Stories
-permalink: /user-stories
 ---
 
 ## Histórias dos usuários

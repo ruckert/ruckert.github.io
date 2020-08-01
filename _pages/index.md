@@ -15,7 +15,7 @@ Espero que seja proveitoso! Ah, se quiser me conhecer mais ou trocar uma ideia, 
 
 ## 📒 Caderno de notas
 
-- [User Stories](user-stories)
+- [User Stories](note_user-stories)
 
 ## 🗄 Coleções
 

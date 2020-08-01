@@ -5,6 +5,8 @@ id: home
 permalink: /
 ---
 
-# Olá 😃
+# Olá 😃!
 
-- [Ferramentas](ferramentas)
+- Algumas páginas de resumo
+  - [User Stories](user-stories)
+- [Ferramentas que eu utilizo](ferramentas)

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <header>
+      <h1>Augusto Rückert</h1>
+      <p>Gestão de produtos digitais / Produtividade / Internet</p>
+    </header>
+
+    <div class="wrapper">
+      <main>{{ content }}</main>
+      <footer>{% include footer.html %}</footer>
+    </div>
+
+    {% include link-previews.html wrapperQuerySelector="content" %}
+  </body>
+</html>

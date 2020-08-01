@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 id: home
 permalink: /
@@ -11,18 +11,18 @@ Espero que seja proveitoso! Ah, se quiser me conhecer mais ou trocar uma ideia, 
 
 ## 📒 Caderno de notas
 
-> Resumos, ideias do dia-a-dia, coisas inacabadas
+_Resumos, ideias do dia-a-dia, coisas inacabadas_
 
 - [User Stories](user-stories)
 
 ## 🗄 Coleções
 
-> conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáticas
+_Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáticas_
 
 - [Ferramentas](ferramentas)
 
 ## 🖋 Blog
 
-> Textos (um pouco) trabalhados
+_Textos (um pouco) trabalhados_
 
 - ??

@@ -4,8 +4,6 @@ title: User Stories
 permalink: /user-stories
 ---
 
-# User Stories
-
 ## Histórias dos usuários
 
 ### Origens

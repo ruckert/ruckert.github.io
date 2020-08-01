@@ -4,8 +4,6 @@ title: Ferramentas
 permalink: /ferramentas
 ---
 
-# Ferramentas
-
 Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que as utilizo.
 
 ## Para organização de eventos e trabalho

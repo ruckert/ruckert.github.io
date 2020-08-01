@@ -35,6 +35,6 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 
 ## Para leitura
 
-- [**Kindle Paperwhite**](https://www.amazon.com.br/dp/B0773XBMB6?tag=msndesktopsta-20&hvadid=71468344019658&hvqmt=e&hvbmt=be&hvdev=c&ref=pd_sl_9g26kjq6zn_e&th=1): Tenho um Kindle Paperwhite há uns cinco anos (já estou no segundo equipamento). A leiturabilidade é ótima, o equipamento é leve, bateria dura muito tempo e armazena uma infinidade de livros. Dada a praticidade, acabo lendo mais livros no Kindle do que livros físicos;
+- [**Kindle Paperwhite**](https://www.amazon.com.br/dp/B0773XBMB6?tag=msndesktopsta-20&hvadid=71468344019658&hvqmt=e&hvbmt=be&hvdev=c&ref=pd_sl_9g26kjq6zn_e&th=1): Tenho um Kindle Paperwhite há mais de cinco anos (já estou no segundo equipamento). A leiturabilidade é ótima, o equipamento é leve, bateria dura muito tempo e armazena uma infinidade de livros. Dada a praticidade, acabo lendo mais livros no Kindle do que livros físicos;
 - [**Kindle (app)**](https://www.amazon.com.br/gp/digital/fiona/kcp-landing-page): Além de sincronizar com o Kindle físico, tem uma interface de leitura muito boa e me permite estar com os livros sempre a mão.
 - [**Pocket**](https://getpocket.com/): Já citei ele acima, como sistema de clipping, mas gosto tanto do leiaute e sistema de leitura e marcação dele, que muitas vezes prefiro mandar um link de blog/site para ele e ler no app.

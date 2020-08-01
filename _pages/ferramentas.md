@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ferramentas
-permalink: /tools
+permalink: /ferramentas
 ---
 
 # Ferramentas

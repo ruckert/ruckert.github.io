@@ -254,7 +254,7 @@ Um backlog hierárquico evita esconder os aumentos desnecessários de escopo, j�
 
 ### Referências
 
-- Writing Stories, Kane Mar: [http://s3.amazonaws.com/public.kanemar.com/writingstories.ppt](http://s3.amazonaws.com/public.kanemar.com/writingstories.ppt)
-- User Stories Applied for Agile Software Development (Capítulo 2), Mike Cohn: [https://www.mountaingoatsoftware.com/uploads/articles/User-Stories-Applied-Mike-Cohn.pdf](https://www.mountaingoatsoftware.com/uploads/articles/User-Stories-Applied-Mike-Cohn.pdf)
+- [Writing Stories, Kane Mar](http://s3.amazonaws.com/public.kanemar.com/writingstories.ppt)
+- [User Stories Applied for Agile Software Development (Capítulo 2), Mike Cohn](https://www.mountaingoatsoftware.com/uploads/articles/User-Stories-Applied-Mike-Cohn.pdf)
 - Fifty Quick Ideas To Improve Your User Stories, Gojko Adzic & David Evans
 - User Stories Done Right, Jeff Sutherland

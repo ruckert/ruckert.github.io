@@ -48,7 +48,7 @@ title: Como estruturar o processo de aprendizagem
 
 ## Usando os outros como referência
 
-> Adapte o que é útil, rejeite o que é inútil e adicione o que é especificamente seu– Bruce Lee
+> Adapte o que é útil, rejeite o que é inútil e adicione o que é especificamente seu – Bruce Lee
 
 - Os extremos informam o meio, mas não vice-versa
 - O que quem tem muita dificuldade faz para aprender isso?O que quem tem muita facilidade faz para aprender isso?

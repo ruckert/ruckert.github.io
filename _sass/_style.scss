@@ -45,11 +45,12 @@ img {
 }
 
 blockquote {
-  padding: 1.5em;
-  margin: 0;
+  padding: 0.8em 1em;
+  margin: 1em 0;
   font-size: 0.88em;
   background: $color-box-background;
   border-radius: $border-radius;
+  font-style: italic;
 
   p {
     margin: 0;

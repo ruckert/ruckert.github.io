@@ -1,5 +1,5 @@
 ---
-title: Product Plannin (Planejamento de Produto)
+title: Product Planning (Planejamento de Produto)
 ---
 
 ## Granularidades
@@ -14,8 +14,8 @@ Granularidade é o termo usado para definir o tamanho e nível de detalhamento d
 
 ### Planejamento de iniciativa/oportunidade
 
-> - Foco: resultado
-> - Granularidade: grande
+- Foco: resultado
+- Granularidade: grande
 
 O planejamento de iniciativas serve para levantar qual a oportunidade/problema que estamos enfrentando. É o momento de avaliar os riscos, levantar as suposições, certezas e hipóteses que temos.
 
@@ -31,7 +31,7 @@ Outro ponto é não entender a Iniciativa como pesquisa, mas como a busca em cum
   - Viável
   - Factível
   - Usável
-- Mapeamento de experimentos/MVPs/MVFs/MVEs
+- [Mapeamento de experimentos/MVPs/MVFs/MVEs](mvp)
   - o que precisa ser validado e como
 - Avaliação dos stakeholders
   - Quem são os interessados
@@ -44,12 +44,12 @@ Outro ponto é não entender a Iniciativa como pesquisa, mas como a busca em cum
 
 ### Planejamento de release
 
-> - Foco: resultado e escopo
-> - Granularidade: média
+- Foco: resultado e escopo
+- Granularidade: média
 
 O planejamento de release é para definir o pacote de alterações/melhorias que será lançado. Entendemos que o processo de lançamento não consiste exatamente com a disponibilização de uma nova versão de software, mas com o processo de go-to-mkt desse novo pacote. Muitas vezes, pequenas correções e melhorias pontuais não precisam ser comunicadas. Entretanto, quanto mais complicada e/ou complexa nossa cadeia de usuários e stakeholders, necessitamos de um processo mais cuidadoso e bem estruturado de lançamento.
 
-É na definição da release que as funções de product marketing/comunicação, atendimento, suporte e treinamento são acionadas. Parte delas delimitarem quais os planos e ações ncessários para que o lançamento seja possível, quais as datas e principais riscos.
+É na definição da release que as funções de product marketing/comunicação, atendimento, suporte e treinamento são acionadas. Parte delas delimitarem quais os planos e ações necessários para que o lançamento seja possível, quais as datas e principais riscos.
 
 O planejamento de release serve também para dar para o time uma visão do "todo" do pacote, o que ele compreende, por que as coisas estão ali (alinhadas ao objetivo da release) e quais as metas desse lançamento.
 
@@ -66,14 +66,14 @@ O planejamento de release serve também para dar para o time uma visão do "todo
 
 ### Planejamento de ciclo/sprint
 
-> - Foco: tempo
-> - Granularidade: pequena
+- Foco: tempo
+- Granularidade: pequena
 
 O planejamento de ciclo ou sprint tem a função de engajar o time nos próximos passos, lembrar (quantas vezes necessário) do todo, dos objetivos e da estratégia.
 
 É a cerimônia que a pessoa de produto conduz com o time com o intuito de garantir que o time está informado e alinhado com o que precisamos fazer.
 
-O ciclo pode conter tarefas de delivery e de discovery, não devendo ser entendido como um planejamento da entrega. O planejamento de uma entrega específica pode ser 
+O ciclo pode conter tarefas de delivery e de discovery, não devendo ser entendido como um planejamento da entrega. O planejamento de uma entrega específica pode ser:
 
 - Focado em discutir itens de trabalho
 - Definição e discussão de detalhes
@@ -81,14 +81,14 @@ O ciclo pode conter tarefas de delivery e de discovery, não devendo ser entendi
 
 ### Refinamento
 
-> - Foco: escopo
-> - Granularidade: pequena e muito pequena
+- Foco: escopo
+- Granularidade: pequena e muito pequena
 
 O refinamento é um momento de quebra de uma release ou outro pacote em uma granularidade menor. Podemos refinar coisas avulsas, mas refinar um conjunto tende a funcionar melhor por que as coisas tem contexto e coesão.
 
-O trabalho de refinamento é essencialmente técnico/tecnologico, sendo o papel da pessoa de produto, depois de bem alinhados os objetivos e resultados, muito superficial. Sua presença deveria ser opcional ou descartável, sendo a pessoa de design um representante suficiente do produto para pequenas definições e dúvidas.
+O trabalho de refinamento é essencialmente técnico/tecnológico, sendo o papel da pessoa de produto, depois de bem alinhados os objetivos e resultados, muito superficial. Sua presença deveria ser opcional ou descartável, sendo a pessoa de design um representante suficiente do produto para pequenas definições e dúvidas.
 
-O foco do refinamento é discutir os detalhes de implementação para dimensionar capacidade, discutir possibilidades de implantação e 
+O foco do refinamento é discutir os detalhes de implementação para dimensionar capacidade, discutir possibilidades de implantação.
 
 - Detalhamento do que precisa ser feito
 - Quebra/União de issues (histórias, tarefas técnicas, sub-tasks)

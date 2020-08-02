@@ -10,7 +10,8 @@ permalink: /
 Algumas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, coisas inacabadas
 
 - [User Stories](user-stories)
-- [MVP](mvp)
+- [Validando ideias de negócio](validando-ideias-de-negocio)
+  - [MVP](mvp)
 - [Product Strategy (Estratégia de Produto)](product-strategy)
 - [Product Planning (Planejamento de Produto)](product-planning)
 - [Como estruturar o processo de aprendizagem](aprendizagem)

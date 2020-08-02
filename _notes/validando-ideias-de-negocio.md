@@ -1,5 +1,10 @@
 ---
 title: Validando ideias de negócio
+references: [
+  {
+    title: MVP,
+    url: mvp
+  }]
 ---
 
 ## Três tipos de risco

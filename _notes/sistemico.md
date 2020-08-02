@@ -1,5 +1,12 @@
 ---
 title: Pensamento sistêmico
+last_update: 2020-08-01
+references: [
+    {
+        title: Como estruturar o processo de aprendizagem,
+        url: aprendizagem
+    }
+]
 ---
 
 > O pensamento sistêmico (systems thinking) é uma perspectiva, uma linguagem e um apanhado de ferramentas

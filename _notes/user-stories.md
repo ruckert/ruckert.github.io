@@ -1,5 +1,12 @@
 ---
 title: User Stories
+last_update: 2020-08-01
+references: [
+    {
+        title: Product Planning,
+        url: product-planning
+    }
+]
 ---
 
 ## Histórias dos usuários

@@ -1,5 +1,12 @@
 ---
 title: Como estruturar o processo de aprendizagem
+last_update: 2020-08-01
+references: [
+    {
+        title: Pensamento Sistêmico,
+        url: sistemico
+    }
+]
 ---
 
 ## Dicas Primeiras

@@ -1,5 +1,12 @@
 ---
 title: Product Strategy (Estratégia de Produto)
+last_update: 2020-08-01
+references: [
+    {
+        title: Product Planning,
+        url: product-planning
+    }
+]
 ---
 
 ## O que é estratégia

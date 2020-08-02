@@ -1,5 +1,20 @@
 ---
 title: Product Planning (Planejamento de Produto)
+last_update: 2020-08-01
+references: [
+    {
+        title: MVP,
+        url: mvp
+    },
+    {
+        title: User Stories,
+        url: user-stories
+    },
+    {
+        title: Product Strategy (Estratégia de Produto),
+        url: product-strategy
+    }
+]
 ---
 
 ## Granularidades

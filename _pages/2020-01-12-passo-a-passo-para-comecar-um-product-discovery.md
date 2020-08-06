@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Passo a passo para começar um Product Discovery
 permalink: 2020-01-12-passo-a-passo-para-comecar-um-product-discovery
 tags: [gestão de produtos, discovery]

@@ -55,6 +55,8 @@ references: [
   - [Execução](#execução)
   - [Pilares da cultura de produto](#pilares-da-cultura-de-produto)
 
+---
+
 > Curso ministrado pelo Alexandre Spengler
 
 - Curso sobre gestão de pessoas de produto

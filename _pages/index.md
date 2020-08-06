@@ -17,6 +17,11 @@ Algumas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, 
 - [Como estruturar o processo de aprendizagem](aprendizagem)
 - [Pensamento Sistêmico](sistemico)
 
+### Anotações de cursos
+
+- [Product Leadership, com o Alexandre Spengler](product-leadership)
+- [Wise Manager, com o Alisson Vale](the-wise-manager)
+
 ## 🗄 Coleções
 
 Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáticas
@@ -27,4 +32,4 @@ Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáti
 
 Textos (um pouco) trabalhados sobre gestão de produtos digitais (_product management_)
 
-- ??
+- [Passo a passo para começar um product discovery](2020-01-12-passo-a-passo-para-comecar-um-product-discovery)

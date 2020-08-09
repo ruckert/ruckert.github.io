@@ -7,7 +7,7 @@ permalink: /
 
 ## 📒 Caderno de notas
 
-Algumas anotações do dia-a-dia, resumos de cursos, materiais estou estudando, coisas inacabadas
+Algumas anotações do dia-a-dia, resumos de cursos, materiais que estou estudando, coisas inacabadas
 
 - [User Stories](user-stories)
 - [Validando ideias de negócio](validando-ideias-de-negocio)

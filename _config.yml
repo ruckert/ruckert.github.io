@@ -15,6 +15,9 @@ collections:
   notes:
     output: true
     permalink: /:path
+  blogs:
+    output: true
+    permalink: /:path
 
 defaults:
   - scope:

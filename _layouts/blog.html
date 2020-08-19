@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<article>
+  <div>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{ page.post_date | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Publicado em
+        {% assign m = page.post_date | date: "%-m" %}
+          {{ page.post_date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %} de Janeiro de 
+          {% when '2' %}de Fevereiro de
+          {% when '3' %}de Março de
+          {% when '4' %}de Abril de
+          {% when '5' %}de Maio de
+          {% when '6' %}de Junho de
+          {% when '7' %}de Julho de
+          {% when '8' %}de Agosto de
+          {% when '9' %}de Setembro de
+          {% when '10' %}de Outubro de
+          {% when '11' %}de Novembro de
+          {% when '12' %}de Dezembro de
+        {% endcase %}
+        {{ page.post_date | date: "%Y" }}
+      
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+    </content>
+
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Postagens relacionadas</h3>
+      {% if page.references.size > 0 %}
+      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+        <div class="backlink-box">
+          {% for reference in page.references %}
+          <a class="internal-link" href="{{ reference.url }}">{{ reference.title }}</a><br>
+          {% endfor %}
+        </div>
+      </div>
+      {% else %}
+
+      <div style="font-size: 0.9em">
+        <p>
+          Não há outras postagens relacionadas
+        </p>
+      </div>
+      {% endif %}
+    </side>
+  </div>
+</article>

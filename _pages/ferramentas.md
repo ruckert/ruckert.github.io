@@ -18,7 +18,6 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 - [**GTD - Getting Things Done**](https://www.amazon.com.br/arte-fazer-acontecer-Estrat%C3%A9gias-produtividade-ebook/dp/B015YGOACS/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O7P0GEXVTWFY&keywords=getting+things+done&qid=1578830209&sprefix=getting+%2Caps%2C315&sr=8-1): Mesmo que não utilizando a metodologia a risca, muitos dos conceitos e das estruturas que utilizo de organização derivam do material do David Allen. O Todoist trabalha muito bem nesse formato, o que facilita a organização.
 - [**Reminders**](https://apps.apple.com/us/app/reminders/id1108187841): Para amarrar minha rotina, o app nativo da Apple tem servido bem, não poluindo meu Todoist ou minha agenda com minhas marcações de tempo (blocos de trabalho, de estudo, lembretes de tomar remédio, etc);
 - [**Google Keep**](https://keep.google.com/): Já tentei utilizar para diversas coisas, e no final gosto dele para uma coisa somente, fazer listas compartilhadas. Serve para o mercado :P.
-- Airtable
 
 ## Para anotar/pensar
 
@@ -28,7 +27,6 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 - [**Google Docs**](https://docs.google.com/document/u/0/): Mesmo preferindo escrever em markdown, quando preciso compartilhar algo para ser trabalhado por mais pessoas, utilizo o Google Docs. Ainda não encontrei melhor ferramenta de edição colaborativa;
 - **Página de Princípios**: Essa ideia eu li no livro [4-hour Chef, do Tim Ferriss](https://www.amazon.com.br/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591). Consiste em gerar um documento com os princípios daquilo que você está estudando. Para quem lembra da escola, é basicamente a mesma ideia do fichamento que os professores pediam para fazer e entregar. É um resumo, um mapa que serve de guia para rememorar coisas importantes do tema estudado, tais como ideias gerais e conselhos. O mais importante é forçar nossa cabeça a gerar abstrações (princípios) sobre o assunto. Nas minhas [anotações sobre processo de aprendizagem](aprendizagem) tem mais ideias sobre isso.
 - [**Google Slides**](https://docs.google.com/presentation/u/0/): Juntamente ao Google Docs, a versão do Power Point do Google é a ferramenta que uso para montar apresentações. Funciona com gifs animados, dá para compartilhar facilmente e roda no navegador.
-- [**Figma**](https://www.figma.com/): Mesmo não trabalhando há bastante tempo como designer, ainda gosto de ter onde rascunhar algumas ideias. Ainda utilizava o Sketch até pouco tempo atrás, mas a independência de sistema operacional que o Figma traz, além de ter uma versão gratuita bastante suficiente para minha utilização, facilitaram a migração de um software para o outro.
 
 ## Para arquivos e clipping
 
@@ -40,3 +38,9 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 - [**Kindle Paperwhite**](https://www.amazon.com.br/dp/B0773XBMB6?tag=msndesktopsta-20&hvadid=71468344019658&hvqmt=e&hvbmt=be&hvdev=c&ref=pd_sl_9g26kjq6zn_e&th=1): Tenho um Kindle Paperwhite há mais de cinco anos (já estou no segundo equipamento). A leiturabilidade é ótima, o equipamento é leve, bateria dura muito tempo e armazena uma infinidade de livros. Dada a praticidade, acabo lendo mais livros no Kindle do que livros físicos;
 - [**Kindle (app)**](https://www.amazon.com.br/gp/digital/fiona/kcp-landing-page): Além de sincronizar com o Kindle físico, tem uma interface de leitura muito boa e me permite estar com os livros sempre a mão.
 - [**Pocket**](https://getpocket.com/): Já citei ele acima, como sistema de clipping, mas gosto tanto do leiaute e sistema de leitura e marcação dele, que muitas vezes prefiro mandar um link de blog/site para ele e ler no app.
+
+## Para desenhar/prototipar
+
+- Airtable
+- [**Figma**](https://www.figma.com/): Mesmo não trabalhando há bastante tempo como designer, ainda gosto de ter onde rascunhar algumas ideias. Ainda utilizava o Sketch até pouco tempo atrás, mas a independência de sistema operacional que o Figma traz, além de ter uma versão gratuita bastante suficiente para minha utilização, facilitaram a migração de um software para o outro.
+- Draw.io

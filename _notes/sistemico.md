@@ -5,6 +5,10 @@ references: [
     {
         title: Como estruturar o processo de aprendizagem,
         url: aprendizagem
+    },
+    {
+        title: Priorização,
+        url: priorizacao
     }
 ]
 ---

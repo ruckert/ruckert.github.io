@@ -5,6 +5,14 @@ references: [
     {
         title: Product Planning,
         url: product-planning
+    }, 
+    {
+        title: Gestão de Stakeholders,
+        url: gestao-de-stakeholders
+    },
+    {
+        title: Priorização,
+        url: priorizacao
     }
 ]
 ---

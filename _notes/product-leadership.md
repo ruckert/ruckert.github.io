@@ -9,7 +9,16 @@ references: [
     {
         title: Product Strategy,
         url: product-strategy
+    },
+    {
+        title: Gestão de Stakeholders,
+        url: gestao-de-stakeholders
+    },
+    {
+        title: Priorização,
+        url: priorizacao
     }
+
 ]
 ---
 

@@ -1,10 +1,19 @@
 ---
 title: Validando ideias de negócio
 references: [
-  {
-    title: MVP,
-    url: mvp
-  }]
+    {
+      title: MVP,
+      url: mvp
+    },
+    {
+        title: Gestão de Stakeholders,
+        url: gestao-de-stakeholders
+    },
+    {
+        title: Priorização,
+        url: priorizacao
+    }
+]
 ---
 
 ## Três tipos de risco

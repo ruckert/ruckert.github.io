@@ -1,5 +1,5 @@
 ---
-title: Priorização
+title: Gestão de Stakeholders
 last_update: 2020-12-20
 references: [
     {

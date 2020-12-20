@@ -9,11 +9,13 @@ permalink: /
 
 Algumas anotações do dia-a-dia, resumos de cursos, materiais que estou estudando, coisas inacabadas
 
+- [Priorização](priorizacao)
 - [User Stories](user-stories)
 - [Validando ideias de negócio](validando-ideias-de-negocio)
   - [MVP](mvp)
 - [Product Strategy (Estratégia de Produto)](product-strategy)
 - [Product Planning (Planejamento de Produto)](product-planning)
+- [Gestão de Stakeholders](gestao-de-stakeholders)
 - [Como estruturar o processo de aprendizagem](aprendizagem)
 - [Pensamento Sistêmico](sistemico)
 

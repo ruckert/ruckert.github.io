@@ -19,6 +19,7 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 - [**Reminders/Lembretes**](https://apps.apple.com/us/app/reminders/id1108187841): Para amarrar minha rotina, o app nativo da Apple tem servido bem, não poluindo meu Todoist ou minha agenda com minhas marcações de tempo (blocos de trabalho, de estudo, lembretes de tomar remédio, etc);
 - [**Notes/Anotações**](https://apps.apple.com/us/app/notes/id1110145109): Utilizava o Google Keep para anotações simples e listas rápidas, mas o recurso nativo do iOS, ainda por cima sincronizado com o app no notebook, acabou me convencendo a migrar;
 - [Airtable](https://airtable.com/): Quem não conhece ainda, sugiro experimentar. O Airtable é uma misturade Excel, com Access, mas tudo isso na web e com uma interface muito bem construída. Hoje utilizo o Airtable para organização de coisas mais complexas (amarração de indicadores com as frentes de trabalho, OKRs e iniciativas) e para minha lista de compras mensais turbinada (com estimativa de preço, o que está no carrinho de compras, totalizações, categorização). Construo ali, de modo rápido, minhas aplicações de CRUD do jeito que preciso.
+- [Miro](https://miro.com/): Com o trabalho remoto, ter boards online tornou-se imprescindível. O Miro é o melhor de todos os produtos que existem para essa lacuna. Uso ele para organizar quadros de avisos, ideias que precisam ficar em destaque, revezamentos, datas importantes, como se tivéssemos um quadro físico no escritório.
 
 ## Para anotar/pensar
 
@@ -46,8 +47,7 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 
 - [Airtable](https://airtable.com/): Já recomendei na lista de ferramentas para [Para organização de tarefas, eventos e trabalho](#para-organização-de-tarefas-eventos-e-trabalho). Serve muito bem para criar aplicações sujas, backoffices rápidos e estruturas dados;
 - [**Figma**](https://www.figma.com/): Mesmo não trabalhando há bastante tempo como designer, ainda gosto de ter onde rascunhar algumas ideias. Ainda utilizava o Sketch até pouco tempo atrás, mas a independência de sistema operacional que o Figma traz, além de ter uma versão gratuita bastante suficiente para minha utilização, facilitaram a migração de um software para o outro.
-- Draw.io
-- Miro
+- [Draw.io](https://app.diagrams.net/): Uma ferramenta gratuita para fazer diagramas, fluxos e wireframes. Simples, funciona no navegador e gera arquivos em XML;
 - **Caderno de cartografia/desenho**: Você pode ir a uma papelaria e comprar aqueles cadernos de desenho para crianças, seja em brochura (costura ou grampos) ou espiral. Custam menos de R$ 10,00 (se for pequeno e com grampos, muitas vezes menos de R$ 2,00). Esses cadernos de cartografia/desenho tem o mesmo efeito para mim que os cadernos de ursinho: ao invés de eu comprar um lindo caderno de desenho, eu compro um que não terei medo de rabiscar, rasgar a página fora, dobrar;
-- Google Sheets
-
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)/[Excel](https://www.microsoft.com/pt-br/microsoft-365/excel): Planilhas são excelentes para prototipar modelos, documentos, bases de dados. Se for online e colaborativo, melhor ainda;
+- [Slice](https://slice.wbrain.me/): Se o Miro é o estado da arte em boards online, o Slice é simples, rápido e direto ao ponto. Além de ser gratuito, suas limitações ajudam a restringir o que está sendo feito. Utilizo para testar ideias de fluxos e canvas.

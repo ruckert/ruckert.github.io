@@ -2,14 +2,18 @@
 title: MVP
 last_update: 2020-08-01
 references: [
-  {
-    title: Validando ideias de negócio,
-    url: validando-ideias-de-negocio
-  },
-  {
-    title: Product Planning (Planejamento de Produto),
-    url: product-planning
-  }
+    {
+      title: Validando ideias de negócio,
+      url: validando-ideias-de-negocio
+    },
+    {
+      title: Product Planning (Planejamento de Produto),
+      url: product-planning
+    },
+    {
+        title: Enquadramento de oportunidade/problema (Framing),
+        url: framing
+    }
 ]
 ---
 

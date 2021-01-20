@@ -102,3 +102,7 @@ Temos o dever de ouvir-las, fazê-las participar, entender suas necessidades, re
 1. O príncipe - Maquiavel
 2. Conversas decisivas - Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 3. First 90 days - Michael Watkins
+
+---
+
+> Agradecimentos ao Lula Rodrigues e a Eluza Pinheiro por ler, revisar, trazer melhorias e complementos

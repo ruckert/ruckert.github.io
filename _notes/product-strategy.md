@@ -13,6 +13,10 @@ references: [
     {
         title: Priorização,
         url: priorizacao
+    },
+    {
+        title: Enquadramento de oportunidade/problema (Framing),
+        url: framing
     }
 ]
 ---

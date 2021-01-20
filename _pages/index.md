@@ -13,6 +13,7 @@ Algumas anotações do dia-a-dia, resumos de cursos, materiais que estou estudan
 - [User Stories](user-stories)
 - [Validando ideias de negócio](validando-ideias-de-negocio)
   - [MVP](mvp)
+- [Enquadramento de oportunidade/problema (Framing)](framing)
 - [Product Strategy (Estratégia de Produto)](product-strategy)
 - [Product Planning (Planejamento de Produto)](product-planning)
 - [Gestão de Stakeholders](gestao-de-stakeholders)

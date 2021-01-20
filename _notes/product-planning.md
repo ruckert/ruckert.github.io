@@ -13,6 +13,10 @@ references: [
     {
         title: Product Strategy (Estratégia de Produto),
         url: product-strategy
+    },
+    {
+        title: Enquadramento de oportunidade/problema (Framing),
+        url: framing
     }
 ]
 ---

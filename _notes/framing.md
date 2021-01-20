@@ -132,4 +132,4 @@ Problemas muito simples ou com poucos e baixos riscos, podem ser enquadrados em 
 
 ---
 
-> Agradecimentos ao Lula Rodrigues e a [Eluza Pinheiro](https://www.linkedin.com/in/eluzapinheiro/) por ler, revisar, trazer melhorias e complementos
+> Agradecimentos ao [Lula Rodrigues](https://www.instagram.com/luizphx) e a [Eluza Pinheiro](https://www.linkedin.com/in/eluzapinheiro/) por ler, revisar, trazer melhorias e complementos

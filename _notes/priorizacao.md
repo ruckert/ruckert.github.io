@@ -128,9 +128,9 @@ Para que a decisão seja compreendida, é necessário contar a história, constr
 
 ## Três livros
 
-1. The hard thing about the hard things, Ben Horowitz
+1. Thinking in Bets - Annie Duke
 2. Make time - Jake Knapp, John Zeratsky
-3. Thinking in Bets - Annie Duke
+3. The hard thing about the hard things, Ben Horowitz
 
 ---
 

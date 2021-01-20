@@ -56,7 +56,7 @@ Podemos entender o enquadramento como a delimitação do espaço do problema. Pa
 
 Precisamos delimitar o espaço do problema antes, pois ele define o nosso mercado potencial. Alguns aspectos do Espaço da Solução podem ser discutidos, mas o foco é no Problema.
 
-> Customers dont't care about your solution. They care about their problems. - Dave McClure
+> Customers don't care about your solution. They care about their problems. - Dave McClure
 
 ### Descobrir X Especificar
 

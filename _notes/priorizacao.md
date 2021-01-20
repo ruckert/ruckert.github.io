@@ -134,4 +134,4 @@ Para que a decisão seja compreendida, é necessário contar a história, constr
 
 ---
 
-> Agradecimentos ao Lula Rodrigues e a Eluza Pinheiro por ler, revisar, trazer melhorias e complementos
+> Agradecimentos ao Lula Rodrigues e a [Eluza Pinheiro](https://www.linkedin.com/in/eluzapinheiro/) por ler, revisar, trazer melhorias e complementos

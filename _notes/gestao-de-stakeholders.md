@@ -105,4 +105,4 @@ Temos o dever de ouvir-las, fazê-las participar, entender suas necessidades, re
 
 ---
 
-> Agradecimentos ao Lula Rodrigues e a Eluza Pinheiro por ler, revisar, trazer melhorias e complementos
+> Agradecimentos ao Lula Rodrigues e a [Eluza Pinheiro](https://www.linkedin.com/in/eluzapinheiro/) por ler, revisar, trazer melhorias e complementos

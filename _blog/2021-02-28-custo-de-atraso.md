@@ -16,7 +16,7 @@ Como esse entendimento do resultado é um problema dependente do contexto, Reine
 
 > Cost of Delay is a way to communicate the impact of time on the outcomes we hope to achieve. - Joshua James
 
-Tentando ser sucinto e não (tão) errado: custo de atraso (_cost of delay_) é o potencial financeiro parado em [filas](filas-definicao-simplificada) por não termos aquela coisa (funcionalidade, projeto, melhoria, produto, etc) na rua. Não é o custo para construir, é o **potencial de ganho/redução de risco** (em dinheiro) que está represado, impossibilitado de poder ser realizado.
+Tentando ser sucinto e não (tão) errado: custo de atraso (_cost of delay_) é o potencial financeiro parado em **[filas](filas-definicao-simplificada)** por não termos aquela coisa (funcionalidade, projeto, melhoria, produto, etc) na rua. Não é o custo para construir, é o **potencial de ganho/redução de risco** (em dinheiro) que está represado, impossibilitado de poder ser realizado.
 
 ## Por que precisamos discutir isso?
 

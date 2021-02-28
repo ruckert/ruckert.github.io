@@ -4,6 +4,10 @@ post_date: 2021-02-28
 tags: [gestão de produtos, priorização, custo de atraso]
 ---
 
+![Foto de Reynaldo #brigworkz Brigantty no Pexels](assets/pexels-reynaldo-brigworkz-brigantty-747113)
+
+_Foto de Reynaldo #brigworkz Brigantty no Pexels_
+
 _Toda pessoa que trabalha com produto, seja gestora ou não, já se deparou com dilemas de priorização. Discussões como "Será que devo negociar com o time de desenvolvimento para que aqueles itens de débito técnico sejam postergados para fazermos a funcionalidade Y?" são comuns e simples frente a situações mais complexas que acabamos tendo que lidar. Escolher raramente é fácil e cada contexto exige parâmetros e visões diferentes._
 
 Por isso, encontramos vários métodos e frameworks de priorização no mercado, na literatura, dos simples aos altamente sofisticados: ICE, RICE, MoSCoW, Kano Model... Algumas pessoas também formulam seus próprios scores de priorização, com ponderações e índices, tentando levar em conta múltiplos fatores. É uma tentativa de regrar o que muitas vezes parece caótico.

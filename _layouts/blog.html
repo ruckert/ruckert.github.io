@@ -31,8 +31,9 @@ layout: default
 
   <div id="notes-entry-container">
     <content>
-      <picture class="post-cover" style="background-image: url( {{ page.cover_url }} );">
-        <p>{{ page.cover_alt }}</p>
+      <picture class="post-cover">
+        <img src="{{ page.cover_url }}" alt="{{ page.cover_alt }}">
+        <p>{{ page.cover_description }}</p>
       </picture>
       {{ content }}
     </content>

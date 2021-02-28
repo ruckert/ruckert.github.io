@@ -3,7 +3,7 @@ title: Custo de Atraso (cost of delay)
 post_date: 2021-02-28
 tags: [gestão de produtos, priorização, custo de atraso]
 cover_url: assets/pexels-reynaldo-brigworkz-brigantty-747113.jpg
-cover_alt: Foto de Reynaldo #brigworkz Brigantty no Pexels
+cover_alt: Foto de Reynaldo "#brigworkz" Brigantty no Pexels
 ---
 
 Toda pessoa que trabalha com produto, seja gestora ou não, já se deparou com dilemas de priorização. Discussões como "Será que devo negociar com o time de desenvolvimento para que aqueles itens de débito técnico sejam postergados para fazermos a funcionalidade Y?" são comuns e simples frente a situações mais complexas que acabamos tendo que lidar. Escolher raramente é fácil e cada contexto exige parâmetros e visões diferentes.

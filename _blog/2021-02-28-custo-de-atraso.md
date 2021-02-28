@@ -16,7 +16,7 @@ Como esse entendimento do resultado é um problema dependente do contexto, Reine
 
 > Cost of Delay is a way to communicate the impact of time on the outcomes we hope to achieve. - Joshua James
 
-Tentando ser sucinto e não (tão) errado: custo de atraso (_cost of delay_) é o potencial financeiro parado em **filas**[1] por não termos aquela coisa (funcionalidade, projeto, melhoria, produto, etc) na rua. Não é o custo para construir, é o **potencial de ganho/redução de risco** (em dinheiro) que está represado, impossibilitado de poder ser realizado.
+Tentando ser sucinto e não (tão) errado: custo de atraso (_cost of delay_) é o potencial financeiro parado em **filas** [1] por não termos aquela coisa (funcionalidade, projeto, melhoria, produto, etc) na rua. Não é o custo para construir, é o **potencial de ganho/redução de risco** (em dinheiro) que está represado, impossibilitado de poder ser realizado.
 
 ## Por que precisamos discutir isso?
 
@@ -38,7 +38,7 @@ Para além disso, há coisas que devem ser feitas junto e após o lançamento de
 
 Para que seja possível calcular o custo de atraso, Reinertsen coloca três elementos a serem considerados:
 
-1. **Valor**[2] **para o usuário do negócio**: o quanto o usuário do negócio (o cliente) potencialmente pagaria a mais devido isso existir? Atrairíamos novos clientes, seja ampliando sobre o público alvo atual ou sobre novos mercado? Poderíamos cobrar mais por ter isso no nosso produto ou portfolio? Isso faria com que os clientes pagassem mais ao longo do tempo, aumentando a retenção, o LTV (LifeTime Value), reduzindo o Churn?
+1. **Valor** [2] **para o usuário do negócio**: o quanto o usuário do negócio (o cliente) potencialmente pagaria a mais devido isso existir? Atrairíamos novos clientes, seja ampliando sobre o público alvo atual ou sobre novos mercado? Poderíamos cobrar mais por ter isso no nosso produto ou portfolio? Isso faria com que os clientes pagassem mais ao longo do tempo, aumentando a retenção, o LTV (LifeTime Value), reduzindo o Churn?
 2. **Criticidade da janela de tempo**: o quanto a janela de oportunidade afeta o potencial de aumento de lucro? Há alguma data limite? Há algum momento que pode aumentar o potencial de resultado?
 3. **Redução de risco e/ou Valor gerado por ativar (ou viabilizar) a oportunidade**: o quanto de risco estamos reduzindo para o negócio em termos financeiros? Quais riscos reduzimos ou eliminamos? Quais as oportunidades tornamos possível de explorar quando temos isso?
 
@@ -106,6 +106,6 @@ Calcular o custo de atraso (Cost of Delay) de nossas iniciativas e projetos é u
 - [Cost of Delay - Joshua James](https://blackswanfarming.com/cost-of-delay/)
 - [Better Backlog Prioritization - Troy Magennis](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Canvas%20and%20Forms/Better%20Backlog%20Prioritization.pdf)
 
-[1] Filas: seu backlog, aquele doc incrível que você guarda na sua ferramenta favorita de anotações, a pasta da sua caixa de emails com as ideias (nem tanto) maravilhosas enviadas por stakeholders, os resultados das suas últimas pesquisas com clientes, listas de sugestões e pedidos enviados por clientes, aqueles mockups que a designer fez e que nunca foram pra frente, aqueles-cronogramas-corporativos-topdown-estratégicos-ASAP-disruptivos-futuro-da-empresa, listas de incidentes e problemas registrados pelo suporte, aquelas-novas-funcionalidades-matadoras-que-ninguém-sabe-para-que-serve-ou-se-funciona-mas-o-concorrente-lançou. Em suma, trabalho inacabado, sendo esse em processamento, em desenvolvimento, em espera ou em alguma outra etapa do seu fluxo de trabalho que signifique "ainda não lançado".
+[1]: seu backlog, aquele doc incrível que você guarda na sua ferramenta favorita de anotações, a pasta da sua caixa de emails com as ideias (nem tanto) maravilhosas enviadas por stakeholders, os resultados das suas últimas pesquisas com clientes, listas de sugestões e pedidos enviados por clientes, aqueles mockups que a designer fez e que nunca foram pra frente, aqueles-cronogramas-corporativos-topdown-estratégicos-ASAP-disruptivos-futuro-da-empresa, listas de incidentes e problemas registrados pelo suporte, aquelas-novas-funcionalidades-matadoras-que-ninguém-sabe-para-que-serve-ou-se-funciona-mas-o-concorrente-lançou. Em suma, trabalho inacabado, sendo esse em processamento, em desenvolvimento, em espera ou em alguma outra etapa do seu fluxo de trabalho que signifique "ainda não lançado".
 
 [2]: Para Reinertsen, valor é o quanto um comprador racional pagaria por aquele produto. Aumentamos o valor do produto quando aumentamos o preço que esse pagador racional potencialmente pagaria. Nesse cenário, testes, validações, experimentos, aumentam o valor do produto (contrariando a ideia propagada pelo TPS ou Lean), pois se o comprador racional sabe que um produto foi mais testado, verificado, e por isso é potencialmente menos falho ou tem menor change de não funcionar, pagaria mais por esse produto quando comparado a outro com as mesmas características/funcionalidades, porém mais propenso a erros.

@@ -4,7 +4,7 @@ post_date: 2021-02-28
 tags: [gestão de produtos, priorização, custo de atraso]
 ---
 
-![Foto de Reynaldo #brigworkz Brigantty no Pexels](assets/pexels-reynaldo-brigworkz-brigantty-747113)
+![Foto de Reynaldo #brigworkz Brigantty no Pexels](assets/pexels-reynaldo-brigworkz-brigantty-747113.jpg)
 
 _Foto de Reynaldo #brigworkz Brigantty no Pexels_
 

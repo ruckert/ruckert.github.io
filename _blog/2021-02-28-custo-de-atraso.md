@@ -95,6 +95,8 @@ O seu modelo precisa conter pelo menos:
 
 ![Quatro tipos de impactos econômicos - Joshua James](https://res.cloudinary.com/blackswanfarming/images/f_auto,q_auto/w_834,h_580/v1613032198/W/Value-Framework-%E2%80%93-Four-buckets-of-value/Value-Framework-%E2%80%93-Four-buckets-of-value.png)
 
+_Quatro tipos de impactos econômicos - Joshua James_
+
 Os empecilhos em aplicar essa abordagem estão na dificuldade inicial com o trabalho necessário para a construção e avaliação de um modelo e sua comunicação, treinamento de uso e evolução.
 
 ## Pensar sobre o custo de atraso

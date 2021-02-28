@@ -105,3 +105,5 @@ Calcular o custo de atraso (Cost of Delay) de nossas iniciativas e projetos é u
 - [Qualitative Cost of Delay - Joshua James](https://blackswanfarming.com/qualitative-cost-delay/)
 - [Cost of Delay - Joshua James](https://blackswanfarming.com/cost-of-delay/)
 - [Better Backlog Prioritization - Troy Magennis](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Canvas%20and%20Forms/Better%20Backlog%20Prioritization.pdf)
+
+> Agradecimentos ao [Lula Rodrigues](https://www.instagram.com/luizphx) e a [Eluza Pinheiro](https://www.linkedin.com/in/eluzapinheiro/) por ler, revisar, trazer melhorias e complementos

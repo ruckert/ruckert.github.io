@@ -2,6 +2,8 @@
 title: Custo de Atraso (cost of delay)
 post_date: 2021-02-28
 tags: [gestão de produtos, priorização, custo de atraso]
+cover_url: assets/pexels-reynaldo-brigworkz-brigantty-747113.jpg
+cover_alt: Foto de Reynaldo \#brigworkz Brigantty no Pexels
 ---
 
 ![Foto de Reynaldo #brigworkz Brigantty no Pexels](assets/pexels-reynaldo-brigworkz-brigantty-747113.jpg)

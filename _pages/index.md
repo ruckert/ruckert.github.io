@@ -36,3 +36,4 @@ Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáti
 Textos (um pouco) trabalhados sobre gestão de produtos digitais (_product management_)
 
 - [Passo a passo para começar um product discovery](2020-01-12-passo-a-passo-para-comecar-um-product-discovery)
+- [Custo de atraso (_cost of delay_)](2021-02-28-custo-de-atraso)

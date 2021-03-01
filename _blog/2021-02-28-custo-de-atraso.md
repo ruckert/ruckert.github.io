@@ -11,7 +11,7 @@ Toda pessoa que trabalha com produto, seja gestora ou não, já se deparou com d
 
 Por isso, encontramos vários métodos e frameworks de priorização no mercado, na literatura, dos simples aos altamente sofisticados: ICE, RICE, MoSCoW, Kano Model... Algumas pessoas também formulam seus próprios scores de priorização, com ponderações e índices, tentando levar em conta múltiplos fatores. É uma tentativa de regrar o que muitas vezes parece caótico.
 
-No seu livro **The Principles of Product Development Flow** (leitura mais que recomendada), Douglas Reinertsen indica medir e priorizar o trabalho pelo _potencial de aumento do lucro da empresa_ que temos em mãos e podemos viabilizar através do que fazemos durante o ciclo de vida do produto. De modo simplificado: priorizar as evoluções, melhorias e inovações pelo potencial de resultado financeiro potencial.
+No seu livro **The Principles of Product Development Flow** (leitura mais que recomendada), Donald Reinertsen indica medir e priorizar o trabalho pelo _potencial de aumento do lucro da empresa_ que temos em mãos e podemos viabilizar através do que fazemos durante o ciclo de vida do produto. De modo simplificado: priorizar as evoluções, melhorias e inovações pelo potencial de resultado financeiro potencial.
 
 Como esse entendimento do resultado é um problema dependente do contexto, Reinertsen propõe um princípio (não um modelo ou um framework) que deveria ser entendido, modelado e medido, independente de quão única é sua empresa: O princípio do **custo de atraso** (_cost of delay_).
 

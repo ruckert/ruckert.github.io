@@ -42,7 +42,7 @@ Listei abaixo as principais ferramentas que utilizo no meu cotidiano e por que a
 - [**Kindle Paperwhite**](https://www.amazon.com.br/dp/B0773XBMB6?tag=msndesktopsta-20&hvadid=71468344019658&hvqmt=e&hvbmt=be&hvdev=c&ref=pd_sl_9g26kjq6zn_e&th=1): Tenho um Kindle Paperwhite há mais de seis anos (já estou no terceiro equipamento). A leiturabilidade é ótima, o equipamento é leve, bateria dura muito tempo e armazena uma infinidade de livros. Dada a praticidade, acabo lendo mais livros no Kindle do que livros físicos;
 - [**Kindle (app)**](https://www.amazon.com.br/gp/digital/fiona/kcp-landing-page): Além de sincronizar com o Kindle físico, tem uma interface de leitura muito boa e me permite estar com os livros sempre a mão. Um recurso excelente que o app habilita é o envio de páginas web via compartilhamento para o Kindle, que uso muito para enviar leituras longas que não são muito confortáveis de fazer no smartphone;
 - [**Pocket**](https://getpocket.com/): Já citei ele acima, como sistema de clipping, mas gosto tanto do leiaute e sistema de leitura e marcação dele, que muitas vezes prefiro mandar um link de blog/site para ele e ler no app;
-- [Xodo PDF Reader](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=pt_BR&gl=US): Para leitura de arquivos PDF no tablet, é o app que melhor se encaixou nas minhas necessidades.
+- [**Xodo PDF Reader**](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=pt_BR&gl=US): Para leitura de arquivos PDF no tablet, é o app que melhor se encaixou nas minhas necessidades.
 
 ## Para desenhar/prototipar
 

@@ -30,6 +30,7 @@ Algumas anotações do dia-a-dia, resumos de cursos, materiais que estou estudan
 Conjuntos de coisas, sites, ferramentas, vídeos e outras aglomerações temáticas
 
 - [Ferramentas](ferramentas)
+- [Livros](livros)
 
 ## 🖋 Blog
 

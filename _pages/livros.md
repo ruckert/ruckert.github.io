@@ -8,7 +8,7 @@ Selecionei aqui os livros que considero mais essenciais para cada tópico. Não 
 
 ## Gestão de Produtos / Product Management
 
-### Essenciais
+### Imprescindíveis
 
 - **The Principles of Product Development Flow** | Donald Reinertsen
 - **Escaping the building trap** | Melissa Perri
@@ -17,8 +17,6 @@ Selecionei aqui os livros que considero mais essenciais para cada tópico. Não 
 ### Para quem está começando / Renovando conhecimentos
 
 - **Inspired: How to Create Tech Products Customers Love** | Marty Cagan
-- **The Lean Product Playbook** | Dan Olsen
-- **The Product Book** | Carlos González de Villaumbrosia
 - **Lean Startup** | Eric Ries
 
 ### Para lideranças de produto
@@ -35,14 +33,9 @@ Selecionei aqui os livros que considero mais essenciais para cada tópico. Não 
 ### Descoberta
 
 - **Testing Business Ideas** | David J. Bland e Alex Osterwalder
+- **Continuous Discovery Habits** | Teresa Torres
 
-### Outros
-
-- **Lean Inception** (Direto ao Ponto) | Paulo Caroli
-- **Strategize** | Roman Pilcher
-- **Working Backwards** | Colin Bryar e Bill Carr
-
-## User Experience
+### User Experience
 
 - **The User Experience Team of One** | Leah Buley
 - **Product Design for Web** | Randy J. Hunt
@@ -57,20 +50,16 @@ Selecionei aqui os livros que considero mais essenciais para cada tópico. Não 
 
 ## Desenvolvimento de Software / Agilidade
 
-- **Phoenix Project** | Gene Kim, Kevin Behr e George Spafford
 - **Kanban** | David Anderson
 - **Impact Mapping** | Gojko Adzik
-- **Fifty Quick Ideas To Improve Your User Stories** | David Evans e Gojko Adzik
 - **#noprojects: A Culture of Continuous Value** | Evan Leybourn
 - **Team Topologies: Organizing Business and Technology Teams for Fast Flow** | Matthew Skelton e Manuel Pais
-- **Doing Agile Right: Transformation Without Chaos** | Darrell Rigby, Sarah Elk e Steve Berez
 
 ## Gestão
 
 - **Management 3.0** | Jurgen Appelo
 - **Strong Product People** | Petra Wille
 - **High Output Management** | Andrew Grove
-- **Trillion Dollar Coach** | Eric Schmidt
 
 ## Marketing
 

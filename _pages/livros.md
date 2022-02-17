@@ -1,7 +1,7 @@
 ---
 layout: default
-title: livros-recomendados
-permalink: /livros-recomendados
+title: livros
+permalink: /livros
 ---
 
 Selecionei aqui os livros que considero mais essenciais para cada tópico. Não serve como lista exaustiva, serve como base. Gosto de pensar que são leituras essenciais ou radicais, no sentido de que contém o 80/20, a raiz das coisas, mesmo que negligenciem alguns detalhes ou especificidades.

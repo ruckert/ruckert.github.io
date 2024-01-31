@@ -14,18 +14,15 @@ references: [
 ]
 ---
 
-- [Product Sense](#product-sense)
-  - [Definições de Product Sense](#definições-de-product-sense)
-    - [Product Sense vs. Product Strategy](#product-sense-vs-product-strategy)
-  - [Bom Product Sense](#bom-product-sense)
-  - [Como desenvolver seu Product Sense](#como-desenvolver-seu-product-sense)
-    - [Mais maneiras de melhorar seu Product Sense](#mais-maneiras-de-melhorar-seu-product-sense)
-  - [Como saber se você está melhorando](#como-saber-se-você-está-melhorando)
-  - [Referências](#referências)
-    - [Além do básico - 3 livros](#além-do-básico---3-livros)
-    - [Muito além - mais 3 livros](#muito-além---mais-3-livros)
-
-# Product Sense
+- [Definições de Product Sense](#definições-de-product-sense)
+  - [Product Sense vs. Product Strategy](#product-sense-vs-product-strategy)
+- [Bom Product Sense](#bom-product-sense)
+- [Como desenvolver seu Product Sense](#como-desenvolver-seu-product-sense)
+  - [Mais maneiras de melhorar seu Product Sense](#mais-maneiras-de-melhorar-seu-product-sense)
+- [Como saber se você está melhorando](#como-saber-se-você-está-melhorando)
+- [Referências](#referências)
+  - [Além do básico - 3 livros](#além-do-básico---3-livros)
+  - [Muito além - mais 3 livros](#muito-além---mais-3-livros)
 
 ## Definições de Product Sense
 

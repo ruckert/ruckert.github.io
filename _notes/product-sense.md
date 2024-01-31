@@ -24,6 +24,8 @@ references: [
   - [Além do básico - 3 livros](#além-do-básico---3-livros)
   - [Muito além - mais 3 livros](#muito-além---mais-3-livros)
 
+Um pequeno sumário sobre Product Sense.
+
 ## Definições de Product Sense
 
 > Sinônimos: Product Intuition; Product Judgement
